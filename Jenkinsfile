@@ -13,7 +13,7 @@ pipeline {
         }
         stage('Deploy1') {
             steps {
-                echo 'mj misses you'
+                echo 'mj misses you very much'
             }
         }
         stage('Deploy2') {
